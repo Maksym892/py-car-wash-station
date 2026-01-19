@@ -1,5 +1,6 @@
 class Car:
     # write your code here
+
     def __init__(
         self,
         comfort_class: int,
@@ -13,6 +14,7 @@ class Car:
 
 class CarWashStation:
     # write your code here
+
     def __init__(
         self,
         distance_from_city_center: float,
