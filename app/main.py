@@ -1,5 +1,4 @@
 class Car:
-    # write your code here
 
     def __init__(
         self,
@@ -13,7 +12,6 @@ class Car:
 
 
 class CarWashStation:
-    # write your code here
 
     def __init__(
         self,
